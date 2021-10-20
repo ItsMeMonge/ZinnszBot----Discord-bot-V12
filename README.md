@@ -1,8 +1,9 @@
 Altere o arquivo .envExemple para .env e coloque o token do bot e o prefixo
 
-no Terminal de comando digite:
 
+no Terminal de comando digite:
 'Npm install express'
+
 'Npm install discord.js@12'
 
 
